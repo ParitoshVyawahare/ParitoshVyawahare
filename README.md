@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Paritosh Vyawahare</h1>
-<h3 align="center">A Data Analyst</h3>
+<h1 align="center">Hi, I'm Paritosh Vyawahare</h1>
+<h3 align="center">Data Analyst | Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paritoshvyawahare&label=Profile%20views&color=0e75b6&style=flat" alt="paritoshvyawahare" /> </p>
 
-- 🔭 I’m currently working on **Policy Lapsation End to End Data warehouse project**
+- I'm currently working on a **PDF RAG Application** — a production-grade Retrieval-Augmented Generation system that lets users upload any PDF and ask questions about it, built with Python, LlamaIndex, Qdrant, OpenAI API, Inngest, and Streamlit.
 
-- 🌱 I’m currently learning **Talend,Snowflake,AWS**
+- I'm currently learning **LLMs, RAG Architectures, LlamaIndex, Vector Databases**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ParitoshVyawahare?tab=repositories](https://github.com/ParitoshVyawahare?tab=repositories)
+- All of my projects are available at [github.com/ParitoshVyawahare](https://github.com/ParitoshVyawahare?tab=repositories)
 
-- 💬 Ask me about **SQL,Power BI,Machine Learning**
+- Ask me about **SQL, Python, Power BI, Machine Learning, RAG, Data Warehousing**
 
-- 📫 How to reach me **paritoshvyawahare@gmail.com**
+- How to reach me: **paritoshvyawahare@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-SNIcsOkc_9cppVzJJzoQ2e6dOfJRW8E/view?usp=drive_link](https://drive.google.com/file/d/1-SNIcsOkc_9cppVzJJzoQ2e6dOfJRW8E/view?usp=drive_link)
+- Know about my experiences: [Resume](https://drive.google.com/file/d/1-SNIcsOkc_9cppVzJJzoQ2e6dOfJRW8E/view?usp=drive_link)
 
-- ⚡ Fun fact **I am a introvert**
+- Fun fact: I am an introvert
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
